@@ -1,0 +1,20 @@
+{
+  "name": "c3",
+  "version": "0.0.0",
+  "authors": [
+    "H Obata <h.obata@and-ex.co.jp>"
+  ],
+  "description": "c3 graph",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "c3": "~0.4.10",
+    "bootstrap": "~3.3.4"
+  }
+}
